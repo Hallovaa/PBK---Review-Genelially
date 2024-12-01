@@ -6,14 +6,26 @@
 
 ># GENELIALYY INTERACTIVE E-LEARNING & CONTENT CREATION PLATFORM
 
-Genially adalah sebuah platform berbasis web yang memungkinkan pengguna untuk membuat konten interaktif dan menarik, seperti presentasi, infografis, kuis, game edukasi, dan berbagai jenis media visual lainnya. Aplikasi ini dirancang untuk mempermudah pembuatan konten tanpa memerlukan keahlian desain atau pengkodean. Dengan antarmuka yang intuitif, Genially menjadi alat yang ideal untuk guru, pelajar, desainer, dan profesional lainnya.
+    Genially adalah sebuah platform berbasis web yang memungkinkan pengguna untuk membuat konten interaktif dan menarik, seperti presentasi, infografis, kuis, game edukasi, dan berbagai jenis media visual lainnya. Aplikasi ini dirancang untuk mempermudah pembuatan konten tanpa memerlukan keahlian desain atau pengkodean. Dengan antarmuka yang intuitif, Genially menjadi alat yang ideal untuk guru, pelajar, desainer, dan profesional lainnya.
+
+
+##
+
+># GENELIALYY VS ISPRING
+
+>## GENELIALYY
+    Berfokus pada pembuatan konten kreatif interaktif, seperti presentasi, infografis, kuis, game, dan materi edukasi visual. Lebih fleksibel untuk berbagai keperluan di luar pendidikan formal.
+
+>## ISPRING
+    Fokus pada konversi presentasi PowerPoint menjadi kursus online interaktif yang kompatibel dengan Learning Management System (LMS). Cocok untuk pelatihan berbasis perusahaan dan pendidikan formal.
+
+
 
 ##
 
 ># KEUNGGULAN GENELIALYY 
 
-1. **Antarmuka Pengguna yang Intuitif:**
-Genially memiliki desain antarmuka yang mudah dipahami, memungkinkan pengguna pemula untuk membuat konten dengan cepat.
+1. **Antarmuka Pengguna yang Intuitif:** Genially memiliki desain antarmuka yang mudah dipahami, memungkinkan pengguna pemula untuk membuat konten dengan cepat.
 
 2. **Fitur Interaktivitas:** Aplikasi ini menawarkan elemen interaktif seperti tombol, animasi, dan hyperlink, yang membuat konten lebih menarik dan dinamis.
 
@@ -52,3 +64,9 @@ Pembuatan Konten Visual:
     - **Presentasi Profesional:** Menyediakan template untuk presentasi bisnis atau pendidikan.
 
     - **Gamifikasi:** Memungkinkan konten diubah menjadi game edukasi sederhana.
+
+##
+
+># KELEBIHAN DAN KEKURANGAN GENELIALLY VS ISPRING
+
+![Fitur Google Classroom](1.png)
