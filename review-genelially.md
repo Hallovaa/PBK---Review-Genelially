@@ -6,7 +6,7 @@
 
 ># GENELIALYY INTERACTIVE E-LEARNING & CONTENT CREATION PLATFORM
 
-    Genially adalah sebuah platform berbasis web yang memungkinkan pengguna untuk membuat konten interaktif dan menarik, seperti presentasi, infografis, kuis, game edukasi, dan berbagai jenis media visual lainnya. Aplikasi ini dirancang untuk mempermudah pembuatan konten tanpa memerlukan keahlian desain atau pengkodean. Dengan antarmuka yang intuitif, Genially menjadi alat yang ideal untuk guru, pelajar, desainer, dan profesional lainnya.
+Genially adalah sebuah platform berbasis web yang memungkinkan pengguna untuk membuat konten interaktif dan menarik, seperti presentasi, infografis, kuis, game edukasi, dan berbagai jenis media visual lainnya. Aplikasi ini dirancang untuk mempermudah pembuatan konten tanpa memerlukan keahlian desain atau pengkodean. Dengan antarmuka yang intuitif, Genially menjadi alat yang ideal untuk guru, pelajar, desainer, dan profesional lainnya.
 
 
 ##
@@ -14,10 +14,10 @@
 ># GENELIALYY VS ISPRING
 
 >## GENELIALYY
-    Berfokus pada pembuatan konten kreatif interaktif, seperti presentasi, infografis, kuis, game, dan materi edukasi visual. Lebih fleksibel untuk berbagai keperluan di luar pendidikan formal.
+Berfokus pada pembuatan konten kreatif interaktif, seperti presentasi, infografis, kuis, game, dan materi edukasi visual. Lebih fleksibel untuk berbagai keperluan di luar pendidikan formal.
 
 >## ISPRING
-    Fokus pada konversi presentasi PowerPoint menjadi kursus online interaktif yang kompatibel dengan Learning Management System (LMS). Cocok untuk pelatihan berbasis perusahaan dan pendidikan formal.
+Fokus pada konversi presentasi PowerPoint menjadi kursus online interaktif yang kompatibel dengan Learning Management System (LMS). Cocok untuk pelatihan berbasis perusahaan dan pendidikan formal.
 
 
 
